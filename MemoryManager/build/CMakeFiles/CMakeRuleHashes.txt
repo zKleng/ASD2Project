@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+4512306e12c376367f0dafa1590366bf memory_service.grpc.pb.h
+b162eecf3329af41496955c37436c98e memory_service.pb.h

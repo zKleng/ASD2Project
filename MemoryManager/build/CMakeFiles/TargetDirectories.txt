@@ -1,0 +1,4 @@
+/home/jorge/Desktop/Projects_ASDII/Project_1/MemoryManager/build/CMakeFiles/memory_manager_server.dir
+/home/jorge/Desktop/Projects_ASDII/Project_1/MemoryManager/build/CMakeFiles/memory_manager_client.dir
+/home/jorge/Desktop/Projects_ASDII/Project_1/MemoryManager/build/CMakeFiles/edit_cache.dir
+/home/jorge/Desktop/Projects_ASDII/Project_1/MemoryManager/build/CMakeFiles/rebuild_cache.dir
